@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.fexible-container {
     display: flex;
     margin: 0 0 150px 0;
 }
