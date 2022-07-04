@@ -13,14 +13,15 @@ h1 {
 
 section {
     display: flex;
+    margin: 0 0 150px 0;
 }
 
-.home-half-width {
+.half-width {
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
 }
 
-.home-half-width img{
+.half-width img{
     width: 80%;
 }
 
@@ -36,4 +37,10 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
