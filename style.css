@@ -26,8 +26,8 @@ p{
 
 .half-width {
     width: 50%;
-    padding-left: 8%;
-    margin: 40px 0 0 0;
+    padding-left: 6%;
+    margin: 40px 40px 0 0;
 }
 
 .half-width img{
@@ -50,6 +50,10 @@ p{
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.top-banner img {
+    margin-left: 69px;
 }
 
 .dream-big {
@@ -85,7 +89,7 @@ p{
 }
 
 #baby-web-developer {
-    border-left: 7px solid blue;
+    border-left: 7px solid #47a3ff;
 }
 
 footer p {
